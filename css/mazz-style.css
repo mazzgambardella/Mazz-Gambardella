@@ -41,19 +41,24 @@ main{
 main img{
 	max-width: 100%;
 }
+main a:hover{
+	color: white;
+
+}
 
 h2{
 	font-size: 30px;
 	color: #e70c19;
 	margin: 40px 0px 10px;
 }
-a{
-	color: #e70c19; 
+a:hover{
+	opacity: .5;
+	background-color: transparent;
 
 }
 a:hover{
-	color: white;
-	background-color: #483a94;
+	opacity: .5;
+	background-color: transparent;
 }
 
 footer{
