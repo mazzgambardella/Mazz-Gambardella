@@ -1,7 +1,7 @@
 body{
 	margin: 0;
-		font-family: Futura, sans-serif;
-		color: black; 
+		font-family: Helvetica, sans-serif;
+		color: #3e4444; 
 		font-size: 20px;
 		line-height: 40px;
 margin-top: 20px;
@@ -9,9 +9,9 @@ margin-top: 20px;
 }
 
 header{
-	font-family: Futura;
+	font-family: Helvetica;
 	font-weight: normal;
-	color: black;
+	color: #3e4444;
 	font-size: 80px;
 	padding-top: 50px;
 	padding-left: 30px;
@@ -21,16 +21,16 @@ header{
 /*header styles */
 
 h1, h2 {
-	font-family: Futura, sans-serif;
+	font-family: Helvetica, sans-serif;
 	font-weight: normal;
-		color: black;
+		color: #3e4444;
 		font-size: 20px;
 		padding-left: 30px;
 }
-h1, a {color: black}
+h1, a {color: #3e4444}
 
 header h1{
-	color: black;
+	color: #3e4444;
 	font-size: 50px;
 }
 
