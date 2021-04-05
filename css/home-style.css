@@ -20,7 +20,7 @@ header{
 
 /*header styles */
 
-h1, h2 {
+h1 {
 	font-family: Helvetica, sans-serif;
 	font-weight: normal;
 		color: #3e4444;
@@ -38,22 +38,27 @@ header img {    border-radius: 270px;
     width: 300px;
     border: 10px solid white;
 }
+h2 {
+	font-family: Helvetica, sans-serif;
+	font-weight: bold;
+		color: #3e4444;
+		font-size: 50px;
+		padding-left: 30px;
+}
 
-main{
+main{	font-family: Helvetica, sans-serif;
+	font-weight: normal;
+		color: #3e4444;
+		font-size: 20px;
+		padding-left: 30px;
+}
 
 }
 main img{
 	max-width: 100%;
 }
 main a:hover{
-	color: black;
 
-}
-
-h2{
-	font-size: 30px;
-	color: black;
-	margin: 40px 0px 10px;
 }
 a:hover{
 	opacity: .5;
